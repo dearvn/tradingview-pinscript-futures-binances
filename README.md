@@ -1,3 +1,5 @@
+A new indicator to predict signal: https://www.patreon.com/donaldit/shop/simple-indicator-for-tracking-trading-on-231800?source=storefront
+
 **If you win, please support me on Paypal: clickclone@gmail.com**
 
 ETHUSDT: 0x269a945fb11642235c1c6ae3fe755ce9d7a50e32
